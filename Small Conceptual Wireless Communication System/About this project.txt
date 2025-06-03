@@ -1,3 +1,5 @@
+Project Video Link: https://youtu.be/CWNu9kSXxrc
+
 Overview:
 ---------
 This is a simple wireless communication project — a proof of concept — that transmits 4 bits in series, with LEDs used to visualize the process.
