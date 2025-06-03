@@ -1,0 +1,19 @@
+Overview:
+---------
+This is a simple wireless communication project — a proof of concept — that transmits 4 bits in series, with LEDs used to visualize the process.
+
+The project does not use any microcontrollers or computer processors. It is built entirely from logic gates and a timer chip (LM555), which overall acts as the system's processor.
+
+
+How does it work?:
+------------------
+First, as shown in the video, there are 4 switches that represent the 4 bits to be transmitted.
+Next, I set the desired bit values (HIGH or LOW) using the switches, then press a button to begin the transmission process.
+
+Two yellow LEDs serve as timing indicators, showing the intervals for each bit being sent.
+The transmission is intentionally slow for visualization purposes. By changing the resistor and/or capacitor values in the circuit, you can adjust the transmission speed—either faster or slower.
+
+
+Inspiration and Purpose:
+------------------------
+I created this system a few years ago, driven by my passion for invention and developing new, useful technologies. This project helped me explore an area of my field related to digital systems concepts and deepened my understanding of how logic gates function. It served as a foundation for future innovations involving more complex systems with real-world applications.
