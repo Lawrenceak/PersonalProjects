@@ -17,3 +17,5 @@ An ESP32 microcontroller was used for high-resolution ADC sampling and real-time
 ### Results
 
 The system delivers stable, fast-response temperature readings with precision comparable to commercial digital sensors, while offering improved responsiveness and deeper control over calibration and signal processing parameters.
+
+![Alt text describing the image](Precise Temperature Measurments/circuitDiagram.png)
